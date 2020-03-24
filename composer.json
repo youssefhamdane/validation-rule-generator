@@ -1,5 +1,5 @@
 {
-    "name": "jijoel/validation-rule-generator",
+    "name": "youssefhamdane/validation-rule-generator-fixed",
     "description": "Laravel 4 class to automatically generate validation rules based on table schema",
     "keywords": ["laravel", "validation", "schema"],
     "authors": [
